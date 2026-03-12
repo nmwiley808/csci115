@@ -43,8 +43,6 @@ The course combines **theoretical analysis with practical implementation** of da
 CSCI115/
 │
 ├── labs/                              # Weekly Lab Activities
-├── programming_assignments/           # Programming Assignments
-├── projects/                          # Course Projects
 └── README.md                          # Repository Documentation
 ```
 
